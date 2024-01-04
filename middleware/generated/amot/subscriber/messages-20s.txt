@@ -1,0 +1,384 @@
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 480.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 860.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 190.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 800.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 720.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 360.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 7, 'volume': 50.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 8, 'volume': 200.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 9, 'volume': 350.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 10, 'volume': 170.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 11, 'volume': 380.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 12, 'volume': 490.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 13, 'volume': 430.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 14, 'volume': 320.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 15, 'volume': 890.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 16, 'volume': 990.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 17, 'volume': 340.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 18, 'volume': 940.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 19, 'volume': 560.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 20, 'volume': 900.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 21, 'volume': 540.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 22, 'volume': 30.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 23, 'volume': 300.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 24, 'volume': 920.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 25, 'volume': 110.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 26, 'volume': 640.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 27, 'volume': 380.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 28, 'volume': 140.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 29, 'volume': 450.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 30, 'volume': 540.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 31, 'volume': 740.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 32, 'volume': 440.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 33, 'volume': 420.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 34, 'volume': 310.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 35, 'volume': 460.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 36, 'volume': 490.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 37, 'volume': 830.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 38, 'volume': 470.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 39, 'volume': 400.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 40, 'volume': 490.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 430.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 510.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 550.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 220.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 950.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 370.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 7, 'volume': 140.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 8, 'volume': 330.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 9, 'volume': 30.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 10, 'volume': 870.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 11, 'volume': 440.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 12, 'volume': 440.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 13, 'volume': 460.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 14, 'volume': 640.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 15, 'volume': 570.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 16, 'volume': 610.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 17, 'volume': 600.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 18, 'volume': 70.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 19, 'volume': 170.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 20, 'volume': 500.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 21, 'volume': 680.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 22, 'volume': 810.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 23, 'volume': 460.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 24, 'volume': 660.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 25, 'volume': 980.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 26, 'volume': 410.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 27, 'volume': 440.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 28, 'volume': 160.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 29, 'volume': 480.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 30, 'volume': 370.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 31, 'volume': 870.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 32, 'volume': 620.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 33, 'volume': 850.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 34, 'volume': 240.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 35, 'volume': 720.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 36, 'volume': 830.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 37, 'volume': 940.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 38, 'volume': 20.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 39, 'volume': 670.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 1000.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 540.0, 'capacity': 1000.0}}
+{'water-level': {'capacity': 1000.0, 'volume': 516.563, 'timer': 0, 'thing_id': '1-new', 'counter': 1}}
+{'water-level': {'capacity': 1000.0, 'volume': 577.732, 'timer': 0, 'thing_id': '1-new', 'counter': 1}}
+{'water-level': {'capacity': 1000.0, 'volume': 452.13, 'timer': 0, 'thing_id': '1-new', 'counter': 1}}
+{'water-level': {'capacity': 1000.0, 'volume': 585.979, 'timer': 0, 'thing_id': '1-new', 'counter': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 80.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 370.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 820.0, 'capacity': 1000.0}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 400.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 600.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 370.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 510.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 440.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 430.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 170.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 380.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 990.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 120.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 940.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 460.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 60.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 770.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 820.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 930.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 590.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 800.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 660.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 990.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 520.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 580.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 870.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 830.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 450.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 420.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 560.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 370.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 430.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 550.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 510.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 50.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 760.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 930.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 560.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 950.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 600.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 430.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 400.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 670.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 230.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 610.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 880.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 930.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 530.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 580.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 570.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 360.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 720.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 990.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 410.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 110.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 740.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 750.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 790.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 540.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 50.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 610.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 480.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 280.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 140.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 80.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 390.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 830.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 300.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 130.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 600.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 950.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 120.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 220.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 590.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 300.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 290.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 220.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 720.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 210.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 1010.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 180.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 360.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 730.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 840.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 700.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 520.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 400.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 710.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 240.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 840.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 930.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 800.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 890.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 730.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 800.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 70.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 350.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 910.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 820.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 790.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 480.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 580.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 400.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 330.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 330.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 470.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 880.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 870.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 100.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 520.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 380.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 940.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 300.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 410.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 80.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 110.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 280.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 140.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 990.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 80.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 930.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 710.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 180.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 810.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 670.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 50.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 660.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 80.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 910.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 440.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 460.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 790.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 930.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 420.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 950.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 350.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 780.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 190.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 830.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 220.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 790.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 770.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 250.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 210.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 490.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 600.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 360.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 780.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 820.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 960.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 850.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 140.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 670.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 320.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 760.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 780.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 740.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 60.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 570.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 790.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 590.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 960.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 430.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 50.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 970.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 210.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 690.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 670.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 510.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 710.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 980.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 390.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 100.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 680.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 150.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 710.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 680.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 330.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 450.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 560.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 770.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 310.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 790.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 520.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 430.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 360.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 730.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 520.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 810.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 860.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 880.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 970.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 960.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 960.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 550.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 190.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 460.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 160.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 380.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 790.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 140.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 80.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 680.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 30.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 930.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 1000.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 70.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 670.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 500.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 890.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 370.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 910.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 660.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 740.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 910.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 640.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 750.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 580.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 170.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 970.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 430.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 610.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 540.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 490.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 40.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 350.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 540.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 70.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 80.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 110.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 620.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 300.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 390.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 510.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 20.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 670.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 620.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 260.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 910.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 590.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 190.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 980.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 680.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 760.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 360.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 480.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 440.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 520.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 880.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 290.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 520.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 720.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 480.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 500.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 130.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 840.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 540.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 1010.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 350.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 950.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 440.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 440.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 830.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 40.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 50.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 80.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 940.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 840.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 770.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 740.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 60.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 130.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 340.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 240.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 4, 'volume': 80.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 5, 'volume': 940.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 6, 'volume': 450.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 470.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 510.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 630.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 710.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 750.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 130.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 420.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 450.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 320.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 620.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 650.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 650.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 790.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 680.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 580.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 540.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 840.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 580.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 3, 'volume': 800.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 1, 'volume': 20.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'thing_id': '1-new', 'counter': 2, 'volume': 300.0, 'capacity': 1000.0, 'timer': 1}}
+{'water-level': {'distance': 23, 'battery': 19, 'timer': '2023-12-12T02:39:55Z'}}
