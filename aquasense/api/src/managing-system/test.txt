@@ -1,0 +1,52 @@
+com adatação
+
+18:53:55.962 -> Tempo de execução: 2062 ms
+18:52:51.089 -> Tempo de execução: 2757 ms
+18:54:13.850 -> Tempo de execução: 2036 ms
+18:54:33.922 -> Tempo de execução: 2236 ms
+18:54:52.430 -> Tempo de execução: 2681 ms
+18:55:10.535 -> Tempo de execução: 2243 ms
+18:55:30.323 -> Tempo de execução: 1953 ms
+18:55:50.061 -> Tempo de execução: 1909 ms
+18:56:09.775 -> Tempo de execução: 1874 ms
+18:56:27.523 -> Tempo de execução: 1901 ms
+18:56:45.232 -> Tempo de execução: 1886 ms
+18:57:05.002 -> Tempo de execução: 1917 ms
+18:57:24.926 -> Tempo de execução: 2093 ms
+18:57:44.657 -> Tempo de execução: 1920 ms
+18:58:04.358 -> Tempo de execução: 1843 ms
+18:58:24.049 -> Tempo de execução: 1870 ms
+18:58:43.792 -> Tempo de execução: 1913 ms
+18:59:03.647 -> Tempo de execução: 2016 ms
+18:59:23.428 -> Tempo de execução: 1931 ms
+19:00:25.567 -> Tempo de execução: 1884 ms
+
+
+valor médio 1972.65
+
+----
+----
+----
+19:09:23.253 -> Tempo de execução: 1613 ms
+19:10:49.058 -> Tempo de execução: 1601 ms
+19:11:08.527 -> Tempo de execução: 1561 ms
+19:11:27.998 -> Tempo de execução: 1563 ms
+19:11:47.443 -> Tempo de execução: 1556 ms
+19:12:07.882 -> Tempo de execução: 1623 ms
+19:12:30.338 -> Tempo de execução: 1595 ms
+19:12:49.875 -> Tempo de execução: 1661 ms
+19:13:09.398 -> Tempo de execução: 1610 ms
+19:13:28.913 -> Tempo de execução: 1614 ms
+19:13:46.379 -> Tempo de execução: 1558 ms
+19:14:05.911 -> Tempo de execução: 1633 ms
+19:14:23.444 -> Tempo de execução: 1617 ms
+19:14:42.875 -> Tempo de execução: 1553 ms
+19:15:02.403 -> Tempo de execução: 1611 ms
+19:15:19.920 -> Tempo de execução: 1633 ms
+19:15:39.571 -> Tempo de execução: 1716 ms
+19:15:59.058 -> Tempo de execução: 1612 ms
+19:16:18.620 -> Tempo de execução: 1642 ms
+19:16:38.146 -> Tempo de execução: 1625 ms
+19:17:17.174 -> Tempo de execução: 1503 ms
+
+valor médio 1603.55 ms 
