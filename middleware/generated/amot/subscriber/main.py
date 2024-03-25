@@ -13,7 +13,7 @@ from agent import AmotAgent
 configs ={
     'THING_ID': 'sub-new', # thing_id, get from thing
     
-    'AMOT_HOST': '192.168.0.9',
+    'AMOT_HOST': '172.22.64.223',
     'AMOT_PORT': 60010
     }
 

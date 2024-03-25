@@ -35,16 +35,19 @@ class App:
           # print(data.json())
           # print("http://localhost:5500/api/things/{0}".format(thing_id))
 
-          thing_id = "00:1B:44:11:3A:B7"
-          distance = int((data['MSG']['water-level']['distance']))
-          battery = int((data['MSG']['water-level']['battery']))
-          ts = data['MSG']['water-level']['timer']
-          payload = {
-            'distance': distance,
-            'battery': battery,
-            'timestamp': ts 
-            }
-          data = requests.post("http://localhost:3001/devices/history/{0}".format(thing_id), json=payload)
+          ## Angelo Version
+          # thing_id = "00:1B:44:11:3A:B7"
+          # distance = int((data['MSG']['water-level']['distance']))
+          # battery = int((data['MSG']['water-level']['battery']))
+          # ts = data['MSG']['water-level']['timer']
+          # payload = {
+          #   'distance': distance,
+          #   'battery': battery,
+          #   'timestamp': ts 
+          #   }
+          # data = requests.post("http://localhost:3001/devices/history/{0}".format(thing_id), json=payload)
+
+
           #print(data.json())
           #print("http://localhost:5500/api/things/{0}".format(thing_id))
           #print(data['MSG'])

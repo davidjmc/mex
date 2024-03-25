@@ -6,7 +6,7 @@ adl = {
         'QueueProxy':'Marshaller','Marshaller':'ClientRequestHandler'
     },
     'adaptability': {
-        'type': 'parametric',
+        'type': '',
         'timeout': 30
     },
     'configuration': {

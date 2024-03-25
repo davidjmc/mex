@@ -67,9 +67,10 @@ class App:
 
      # Obter a data e hora atuais
     data_hora_atual = datetime.now(timezone.utc)
+    data_hora_brasil = data_hora_atual.replace(hour=data_hora_atual.hour + (-3))
 
     # Formatar a data e hora como uma string no formato especificado
-    data = data_hora_atual.strftime("%Y-%m-%dT%H:%M:%SZ")
+    data = data_hora_brasil.strftime("%Y-%m-%dT%H:%M:%SZ")
 
     altura = r.randint(0, 200)
 

@@ -71,8 +71,12 @@ broker:
 	rm -rf generated/amot/broker/*
 	mkdir -p generated/amot/broker/components/
 
-	cp amot.py generated/amot/broker/
-	cp agent.py generated/amot/broker/
+	cp ../samples/amot/broker/amot.py generated/amot/broker/
+	cp ../samples/amot/broker/agent.py generated/amot/broker/
+
+	cp ../samples/amot/broker/MessageStorage.py generated/amot/broker/
+	cp ../samples/amot/broker/SubscriptionsManager.py generated/amot/broker/
+	cp ../samples/amot/broker/SubscriptionStorage.py generated/amot/broker/
 	
 	cp ../samples/amot/broker/main.py generated/amot/broker/
 	cp ../samples/amot/broker/app.py generated/amot/broker/
