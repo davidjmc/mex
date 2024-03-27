@@ -2,7 +2,7 @@ from amot import Amot
 import configurations
 import time
 import random as r
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 RECTANGLE = True
 CYLINDER = False
@@ -67,7 +67,8 @@ class App:
 
      # Obter a data e hora atuais
     data_hora_atual = datetime.now(timezone.utc)
-    data_hora_brasil = data_hora_atual.replace(hour=data_hora_atual.hour + (-3))
+    # data_hora_brasil = data_hora_atual.replace(hour=data_hora_atual.hour + (-3))
+    data_hora_brasil = data_hora_atual - timedelta(hours=3)
 
     # Formatar a data e hora como uma string no formato especificado
     data = data_hora_brasil.strftime("%Y-%m-%dT%H:%M:%SZ")
