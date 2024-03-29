@@ -1,11 +1,12 @@
 import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import { TypeOrmModule } from '@nestjs/typeorm';
-import { Device } from './device/entity/device.entity';
 import { DeviceModule } from './device/device.module';
-import { MqttModule } from './mqtt/mqtt.module';
 import { DeviceHistory } from './device/entity/device-history.entity';
+import { Device } from './device/entity/device.entity';
 import { ManangingSystemModule } from './managing-system/managing-system.module';
+import { MexModule } from './mex/mex.module';
+import { MqttModule } from './mqtt/mqtt.module';
 
 @Module({
   imports: [
@@ -22,6 +23,7 @@ import { ManangingSystemModule } from './managing-system/managing-system.module'
     DeviceModule,
     MqttModule,
     ManangingSystemModule,
+    MexModule,
   ],
   providers: [],
 })
