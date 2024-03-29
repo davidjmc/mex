@@ -1,4 +1,8 @@
 node_modules
+dist
+
+report
+reports
 
 # stryker temp files
 .stryker-tmp
