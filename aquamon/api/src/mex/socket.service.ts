@@ -10,7 +10,7 @@ export class SocketService {
   constructor() {
     this.socket = new net.Socket();
     // Configure o socket conforme necessário, como conectar a um host e porta específicos
-    this.socket.connect(60000, '192.168.18.220', () => {
+    this.socket.connect(60000, '192.168.0.7', () => {
       console.log('Conexão estabelecida com o servidor!');
     });
 

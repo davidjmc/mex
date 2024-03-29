@@ -1,8 +1,8 @@
 import { Module } from '@nestjs/common';
-import { SocketService } from './socket.service';
+import { MexService } from './mex.service';
 
 @Module({
-  providers: [SocketService],
-  exports: [SocketService],
+  providers: [MexService],
+  exports: [MexService],
 })
 export class MexModule {}
