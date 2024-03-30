@@ -28,8 +28,31 @@ Adaptive Middleware of Things
 - Change to the amot middleware directory cloned earlier
 
 > On the computer
+### Run managing system
+from root directory `cd managing-system` and `node main.js`
 
-TODO
+### Run mex broker
+from root directory `cd middleware` and `make run-broker`
+
+### Run mex publisher
+from root directory `cd middleware` and `make run-publisher`
+
+### Run mex subscriber
+from root directory `cd middleware` and `make run-subscriber`
+
+### Run Aquamon application
+from root directory `cd aquamon`
+
+is needed install dependencies from project in the front and api directory
+
+#### Run frontend
+`cd front` and `npm install` and `npm run dev`
+
+#### Run api
+
+`cd api` and `npm install` and `npm run start:dev`
+
+to run the database execute `docker-compose up -d`
 
 > On the thing
 
