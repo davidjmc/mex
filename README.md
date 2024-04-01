@@ -50,9 +50,10 @@ is needed install dependencies from project in the front and api directory
 
 #### Run api
 
+to run the database execute `docker-compose up -d`
+
 `cd api` and `npm install` and `npm run start:dev`
 
-to run the database execute `docker-compose up -d`
 
 > On the thing
 
