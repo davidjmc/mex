@@ -9,7 +9,7 @@ configurations = {
         "location": None
     },
     "environment": {
-        "broker_host": "192.168.18.145",
+        "broker_host": "192.168.18.200",
         "broker_port": 60000,
         "await_broker_response": 1
     }

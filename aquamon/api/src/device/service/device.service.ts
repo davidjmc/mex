@@ -1,6 +1,5 @@
 import { ConflictException, Injectable, Logger } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
-import { Console } from 'console';
 import { DateTime } from 'luxon';
 import { Repository } from 'typeorm';
 import { MexService } from '../../mex/mex.service';
@@ -283,9 +282,9 @@ export class DeviceService {
         if (msg) {
           const currentVolume = this.calcCurrentVolume(msg.distance, device);
           // const currentBattery = this.calcPercentBattery(4.2);
-          const currentBattery = msg.battery
+          const currentBattery = msg.battery;
 
-          const timestamp = new Date(msg.timer)
+          const timestamp = new Date(msg.timer);
 
           const currentPercentage = (
             (currentVolume * 100) /
