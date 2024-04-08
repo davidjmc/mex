@@ -7,7 +7,7 @@ export class ClientRequestHandler {
         // console.log(invData);
         // const data = JSON.stringify(invData);
         //const data = invData['DATA'];
-        const host = '192.168.0.7';
+        const host = '192.168.18.145';
         let port = 0;
 
         if (isNaN(port) || port === 0) {

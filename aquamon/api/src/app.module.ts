@@ -10,19 +10,19 @@ import { MqttModule } from './mqtt/mqtt.module';
 
 @Module({
   imports: [
-    // ConfigModule.forRoot({ envFilePath: '../.env' }),
-    // TypeOrmModule.forRoot({
-    //   type: 'postgres',
-    //   port: 5432,
-    //   username: 'dev',
-    //   password: 'dev_pass',
-    //   database: 'water_db',
-    //   entities: [Device, DeviceHistory],
-    //   synchronize: true,
-    // }),
-    // DeviceModule,
-    // MqttModule,
-    // ManangingSystemModule,
+    ConfigModule.forRoot({ envFilePath: '../.env' }),
+    TypeOrmModule.forRoot({
+      type: 'postgres',
+      port: 5432,
+      username: 'dev',
+      password: 'dev_pass',
+      database: 'water_db',
+      entities: [Device, DeviceHistory],
+      synchronize: true,
+    }),
+    DeviceModule,
+    MqttModule,
+    ManangingSystemModule,
     MexModule,
   ],
   providers: [],
