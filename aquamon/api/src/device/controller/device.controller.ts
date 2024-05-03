@@ -62,4 +62,11 @@ export class DeviceController {
   async findOne(id: string): Promise<Device> {
     return await this.deviceService.findOne(id);
   }
+
+  @Get('/battety/:mac')
+  async getBatteryVariation(
+    mac: string,
+  ): Promise<{ before: number; after: number }> {
+    return await this.deviceService.getBatteryVariation(mac);
+  }
 }

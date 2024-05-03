@@ -38,8 +38,10 @@ export class DeviceService {
     // TODO - Subscribe to MQTT topic of each one devices
     this.findAll().then((res) =>
       res.forEach((device) => {
-        this.subscribeMex(device);
-        // this.subscribeMqtt(device);
+        // this.subscribeMex(device);
+        this.subscribeMqtt(device);
+
+        this.getBatteryVariation('00:1B:44:11:3A:B7');
       }),
     );
   }
@@ -137,6 +139,21 @@ export class DeviceService {
       battery: Number(dto.battery),
       water: Number(currentVolume),
     });
+  }
+
+  async getBatteryVariation(mac: string) {
+    const device = await this.deviceRepository
+      .createQueryBuilder('device')
+      .leftJoinAndSelect('device.devicesHistory', 'history')
+      .where('device.mac = :mac', { mac })
+      .orderBy('history.timestamp', 'DESC')
+      .limit(2)
+      .getOne();
+
+    return {
+      before: device?.devicesHistory[1]?.battery || null,
+      after: device?.devicesHistory[0]?.battery || null,
+    };
   }
 
   calcCurrentVolume(distance: number, device: Device): number {

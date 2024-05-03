@@ -30,7 +30,7 @@ export const HistoryConsumption = ({
   maxDate,
   minDate,
 }: HistoryConsumptionProps) => {
-  const [date, setDate] = useState<Date | null>(null);
+  const [date, setDate] = useState<Date | null>(new Date());
 
   return (
     <Paper shadow="xl" p="xl">
