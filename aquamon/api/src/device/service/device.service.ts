@@ -18,6 +18,7 @@ interface AggregatedDeviceHistory {
 interface DeviceWithAggregatedHistory extends Device {
   aggregatedHistory: AggregatedDeviceHistory[];
   remainingDays: number;
+  dailyConsumption: number;
 }
 
 // Função auxiliar para formatar a data no formato 'DD/MM/YY'
@@ -41,7 +42,7 @@ export class DeviceService {
         // this.subscribeMex(device);
         this.subscribeMqtt(device);
 
-        this.getBatteryVariation('00:1B:44:11:3A:B7');
+        // this.getBatteryVariation('00:1B:44:11:3A:B7');
       }),
     );
   }
@@ -206,14 +207,32 @@ export class DeviceService {
       return acc;
     }, {} as { [date: string]: DeviceHistory[] });
 
+    let dailyConsumption = 0;
+
     // Calcula o volume máximo de água e nível de bateria por dia
     for (const date in groupedHistory) {
       const historyList = groupedHistory[date];
+
+      const formattedDate = formatDate(date);
+
       aggregatedHistory.push({
-        date: formatDate(date),
+        date: formattedDate,
         volume: historyList[historyList.length - 1].water,
         battery: historyList[historyList.length - 1].battery,
       });
+
+      if (formattedDate === DateTime.now().toFormat('dd/LL/yy')) {
+        for (let i = 1; i < historyList.length; i++) {
+          const previousWaterLevel = parseFloat(
+            historyList[i - 1].water.toString(),
+          );
+          const currentWaterLevel = parseFloat(historyList[i].water.toString());
+
+          if (currentWaterLevel < previousWaterLevel) {
+            dailyConsumption += previousWaterLevel - currentWaterLevel;
+          }
+        }
+      }
     }
 
     const remainingDays = () => {
@@ -229,6 +248,7 @@ export class DeviceService {
       ...device,
       aggregatedHistory,
       remainingDays: remainingDays(),
+      dailyConsumption: +dailyConsumption.toFixed(2),
     };
 
     return deviceWithAggregatedHistory;
@@ -241,7 +261,8 @@ export class DeviceService {
 
       const currentVolume = this.calcCurrentVolume(dto.distance, device);
 
-      const currentBattery = this.calcPercentBattery(dto.voltage);
+      // const currentBattery = this.calcPercentBattery(dto.voltage);
+      const currentBattery = dto.battery;
 
       const currentPercentage = (
         (currentVolume * 100) /
@@ -255,7 +276,7 @@ export class DeviceService {
       this.deviceHistoryService.create({
         water: Number(currentVolume),
         battery: Number(currentBattery),
-        timestamp: new Date(dto.timestamp * 1000),
+        timestamp: new Date(dto.timestamp),
         device,
       });
       this.deviceRepository.update(device.id, {

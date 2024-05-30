@@ -16,6 +16,7 @@ export interface IDevice {
   percentage: string;
   maxCapacity: string;
   remainingDays: number;
+  dailyConsumption: number;
   height: string;
   baseRadius: string;
   aggregatedHistory: AggregatedDeviceHistory[];

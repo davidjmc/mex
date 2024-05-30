@@ -56,6 +56,7 @@ export const Dashboard = () => {
             address={selectedDevice.address}
             mac={selectedDevice.mac}
             remainingDays={selectedDevice.remainingDays}
+            dailyConsumption={selectedDevice.dailyConsumption}
             baseRadius={selectedDevice.baseRadius}
             height={selectedDevice.height}
             maxCapacity={selectedDevice.maxCapacity}
