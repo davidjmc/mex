@@ -70,7 +70,6 @@ export const CreateDeviceModal = ({
     address: string;
     height: number;
     baseRadius: number;
-    maxCapacity: number;
   }) => {
     createDevice({
       name: data.name,
@@ -78,7 +77,6 @@ export const CreateDeviceModal = ({
       address: data.address,
       height: data.height,
       baseRadius: data.baseRadius,
-      maxCapacity: data.maxCapacity,
     })
       .then(() => {
         queryClient.invalidateQueries('allDevices').then(() => {
@@ -158,7 +156,7 @@ export const CreateDeviceModal = ({
               label="Height (M)"
               hideControls
               min={0}
-              precision={2}
+              precision={4}
               required
               name="height"
               {...form.getInputProps('height')}
@@ -167,19 +165,10 @@ export const CreateDeviceModal = ({
               label="Base Radius (M)"
               hideControls
               min={0}
-              precision={2}
+              precision={4}
               required
               name="baseRadius"
               {...form.getInputProps('baseRadius')}
-            />
-            <NumberInput
-              label="Max Capacity (L)"
-              hideControls
-              min={0}
-              precision={2}
-              required
-              name="maxCapacity"
-              {...form.getInputProps('maxCapacity')}
             />
           </Grid.Col>
         </Grid>

@@ -13,7 +13,6 @@ import { DeviceService } from '../service/device.service';
 export class CreateUpdateDeviceDTO {
   name: string;
   mac: string;
-  maxCapacity: number;
   height: number;
   baseRadius: number;
   address: string;

@@ -39,8 +39,8 @@ export class DeviceService {
     // TODO - Subscribe to MQTT topic of each one devices
     this.findAll().then((res) =>
       res.forEach((device) => {
-        // this.subscribeMex(device);
         this.subscribeMqtt(device);
+        // this.subscribeMex(device);
 
         // this.getBatteryVariation('00:1B:44:11:3A:B7');
       }),
@@ -50,9 +50,15 @@ export class DeviceService {
   async create(dto: CreateUpdateDeviceDTO): Promise<Device> {
     await this.verifyMac(dto.mac);
 
-    const newDevice = await this.deviceRepository.save({ ...dto });
+    const maxCapacity = +this.calcMaxCapacity(
+      dto.height,
+      dto.baseRadius,
+    ).toFixed(4);
+
+    const newDevice = await this.deviceRepository.save({ ...dto, maxCapacity });
 
     this.subscribeMqtt(newDevice);
+    // this.subscribeMex(device);
 
     return newDevice;
   }
@@ -68,6 +74,7 @@ export class DeviceService {
       const updateddevice = await this.findOne(id);
       this.unsubscribeMqtt(oldDevice);
       this.subscribeMqtt(updateddevice);
+      // this.subscribeMex(device);
     } else {
       await this.deviceRepository.update(id, dto);
     }
@@ -165,6 +172,12 @@ export class DeviceService {
     const currentVolume = Math.PI * Math.pow(baseRadius, 2) * currentHeight;
 
     return Number((currentVolume * 1000).toFixed(2));
+  }
+
+  calcMaxCapacity(heigth: number, baseRadius: number): number {
+    const volume = Math.PI * Math.pow(baseRadius, 2) * heigth;
+
+    return volume * 1000;
   }
 
   calcPercentBattery(voltage: number) {

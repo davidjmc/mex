@@ -24,7 +24,7 @@ export class Device {
   @Column({ type: 'numeric', precision: 10, scale: 2, default: 0 })
   percentage: number;
 
-  @Column({ default: 0 })
+  @Column({ type: 'numeric', default: 0 })
   maxCapacity: number;
 
   // Medidas em metros

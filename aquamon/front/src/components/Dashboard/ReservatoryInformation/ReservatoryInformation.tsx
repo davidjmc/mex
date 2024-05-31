@@ -176,7 +176,7 @@ export const ReservatoryInformation = ({
           <Group spacing={'xs'}>
             <Title order={5}>Max Volume:</Title>
             <Text size="md" color="dimmend">
-              {maxCapacity}L
+              {Number(maxCapacity).toFixed(0)}L
             </Text>
           </Group>
         </Grid.Col>
